@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "6aeabddf315954fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "23cd402323e51b68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e86c93b1ba3877d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Введение в специальность/Основы алгоритмизации и программирования.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основы алгоритмизации и программирования"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32ea42f4a5d35184",
+    "type": "split",
+    "children": [
+      {
+        "id": "42ecc089b2b3854e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce6aa0d46e7e7f13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "435e216cd454b9f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "2d848b579b9b1286",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e7f3d9890727163",
+    "type": "split",
+    "children": [
+      {
+        "id": "eec7dae34fb0f4e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1b47244d7d6ceab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Введение в специальность/Основы алгоритмизации и программирования.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Основы алгоритмизации и программирования"
+            }
+          },
+          {
+            "id": "01e629040b7ac7cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Введение в специальность/Основы алгоритмизации и программирования.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Основы алгоритмизации и программирования"
+            }
+          },
+          {
+            "id": "2fbe410e76937d7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "992cabdf17d22446",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Введение в специальность/Основы алгоритмизации и программирования.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Основы алгоритмизации и программирования"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "e86c93b1ba3877d5",
+  "lastOpenFiles": [
+    "Введение в специальность/IT профессии в РФ.md"
+  ]
+}
