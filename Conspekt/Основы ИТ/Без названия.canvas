@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"930c0fd465183492","type":"text","text":"Материнская плата","x":-500,"y":-360,"width":200,"height":60},
+		{"id":"8ae6021d7c718656","x":-106,"y":-480,"width":250,"height":60,"color":"2","type":"text","text":"Физический интерфейс "},
+		{"id":"5cdfd9dbfd6944a9","x":293,"y":-260,"width":250,"height":60,"type":"text","text":"Процессор"},
+		{"id":"7df476910a23c2a7","x":293,"y":-390,"width":250,"height":60,"type":"text","text":"Периферия"},
+		{"id":"61afbfbd3915f2db","type":"text","text":"ПЗУ","x":293,"y":-540,"width":250,"height":60},
+		{"id":"08e1664cfbe56117","type":"text","text":"ОЗУ","x":293,"y":-686,"width":250,"height":66},
+		{"id":"598e01e9aaefd774","x":-106,"y":-260,"width":250,"height":60,"color":"4","type":"text","text":"Программная совместимость "}
+	],
+	"edges":[
+		{"id":"ca55c66f3fc77b26","fromNode":"930c0fd465183492","fromSide":"right","toNode":"8ae6021d7c718656","toSide":"left","color":"2"},
+		{"id":"9ff9be381f808e86","fromNode":"930c0fd465183492","fromSide":"right","toNode":"598e01e9aaefd774","toSide":"left","color":"4"},
+		{"id":"f83ba0375ca4a1be","fromNode":"8ae6021d7c718656","fromSide":"right","toNode":"61afbfbd3915f2db","toSide":"left","color":"2"},
+		{"id":"c642fe2c46d3b564","fromNode":"8ae6021d7c718656","fromSide":"right","toNode":"08e1664cfbe56117","toSide":"left","color":"2"},
+		{"id":"99c7f1ff86077115","fromNode":"8ae6021d7c718656","fromSide":"right","toNode":"5cdfd9dbfd6944a9","toSide":"left","color":"2"},
+		{"id":"086a019ca47214db","fromNode":"8ae6021d7c718656","fromSide":"right","toNode":"7df476910a23c2a7","toSide":"left","color":"2"},
+		{"id":"88446b6140289798","fromNode":"598e01e9aaefd774","fromSide":"right","toNode":"7df476910a23c2a7","toSide":"left","color":"4"},
+		{"id":"5432fc0f5abdf1bd","fromNode":"598e01e9aaefd774","fromSide":"right","toNode":"5cdfd9dbfd6944a9","toSide":"left","color":"4"}
+	]
+}
