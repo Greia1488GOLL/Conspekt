@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspekt/Основы ИТ/Руководство по сборке ПК.md",
+                "file": "Conspekt/Люди/Эндрю Таненбаум.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Руководство по сборке ПК"
+              "title": "Эндрю Таненбаум"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "e86c93b1ba3877d5",
   "lastOpenFiles": [
-    "Conspekt/Основы ИТ/Без названия.canvas",
+    "Conspekt/Люди/Алан Тьюринг.md",
+    "Conspekt/Люди/Эндрю Таненбаум.md",
+    "Conspekt/Основы ИТ/Операционная система.md",
     "Conspekt/Основы ИТ/Руководство по сборке ПК.md",
+    "Conspekt/Введение в Python/Списки.md",
+    "Conspekt/Основы ИТ/Без названия.canvas",
     "Conspekt/Информатика/Работа с электронными таблицами.md",
     "Conspekt/Основы ИТ",
     "Conspekt/Биология/Рибосомы.md",
