@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e86c93b1ba3877d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conspekt/Введение в Python/Обработка исключений.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Обработка исключений"
-            }
-          },
-          {
             "id": "c02161d76a53a658",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspekt/Информатика/Формула Бекус - наур.md",
+                "file": "Conspekt/Код/Leet code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Формула Бекус - наур"
+              "title": "Leet code"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,9 +171,12 @@
   },
   "active": "c02161d76a53a658",
   "lastOpenFiles": [
-    "Conspekt/Информатика/Формула Бекус - наур.md",
-    "Conspekt/Коды/Обработка исключения ZeroDivisionError.md",
     "Conspekt/Введение в Python/Обработка исключений.md",
+    "Conspekt/Код/Leet code.md",
+    "Conspekt/Код/Реализация связного списка.md",
+    "Conspekt/Код/Обработка исключения ZeroDivisionError.md",
+    "Conspekt/Основы ИТ/Руководство по сборке ПК.md",
+    "Conspekt/Информатика/Формула Бекус - наур.md",
     "Conspekt/Введение в Python/Классы.md",
     "Conspekt/Биология/Экологические факторы.md",
     "Pasted image 20251110110914.png",
@@ -202,9 +190,8 @@
     "Pasted image 20251110110601.png",
     "Pasted image 20251110110034.png",
     "Conspekt/Люди/Джон Бэкус.md",
-    "Conspekt/Коды/Коды.md",
     "Conspekt/Основы ИТ/Без названия.canvas",
-    "Conspekt/Коды",
+    "Conspekt/Код",
     "Conspekt/Биология/Рибосомы.md",
     "Без названия.md",
     "Без названия 1.base",
@@ -218,7 +205,6 @@
     "Conspekt/Люди/Эндрю Таненбаум.md",
     "Conspekt/Люди/Алан Тьюринг.md",
     "Conspekt/Основы ИТ/Операционная система.md",
-    "Conspekt/Основы ИТ/Руководство по сборке ПК.md",
     "Conspekt/Введение в Python/Списки.md",
     "Conspekt/Информатика/Работа с электронными таблицами.md",
     "Conspekt/Основы ИТ",
