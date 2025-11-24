@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspekt/Код/Backrooms.md",
+                "file": "Conspekt/Введение в специальность/Создание и настройка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backrooms"
+              "title": "Создание и настройка"
             }
           }
         ]
@@ -171,8 +171,23 @@
   },
   "active": "c02161d76a53a658",
   "lastOpenFiles": [
-    "Conspekt/Введение в специальность/История ЯП Паскаль.md",
+    "Conspekt/Биология/Биосфера.md",
+    "Conspekt/Введение в специальность/Создание и настройка.md",
+    "Pasted image 20251124110911.png",
+    "Pasted image 20251124110647.png",
+    "Pasted image 20251124110639.png",
+    "Pasted image 20251124110631.png",
+    "Pasted image 20251124110623.png",
+    "Pasted image 20251124110616.png",
+    "Pasted image 20251124105624.png",
+    "Pasted image 20251124105616.png",
+    "Conspekt/Люди/Эндрю Таненбаум.md",
+    "Conspekt/Основы ИТ/Операционная система.md",
+    "Conspekt/Основы ИТ/Знакомства с Linux.md",
+    "Conspekt/Основы ИТ/Без названия.canvas",
+    "Conspekt/Люди/Линус Торвальдс.md",
     "Conspekt/Код/Backrooms.md",
+    "Conspekt/Введение в специальность/История ЯП Паскаль.md",
     "Conspekt/Индивидуальный проект/Возможности интеграции системы контроля версии в ваш проект.md",
     "Conspekt/Индивидуальный проект/Введение.md",
     "Conspekt/Индивидуальный проект/Без названия",
@@ -186,16 +201,7 @@
     "Conspekt/Биология/Экологические факторы.md",
     "Pasted image 20251110110914.png",
     "Pasted image 20251110110907.png",
-    "Pasted image 20251110110855.png",
-    "Pasted image 20251110110843.png",
-    "Pasted image 20251110110758.png",
-    "Pasted image 20251110110743.png",
-    "Pasted image 20251110110625.png",
-    "Pasted image 20251110110615.png",
-    "Pasted image 20251110110601.png",
-    "Pasted image 20251110110034.png",
     "Conspekt/Люди/Джон Бэкус.md",
-    "Conspekt/Основы ИТ/Без названия.canvas",
     "Conspekt/Код",
     "Conspekt/Биология/Рибосомы.md",
     "Без названия.md",
@@ -207,17 +213,11 @@
     "Без названия.canvas",
     "Настройка рабочего пространства.md",
     "Conspekt/Информатика/Списки, графы и деревья.md",
-    "Conspekt/Люди/Эндрю Таненбаум.md",
     "Conspekt/Люди/Алан Тьюринг.md",
-    "Conspekt/Основы ИТ/Операционная система.md",
     "Conspekt/Введение в Python/Списки.md",
     "Conspekt/Информатика/Работа с электронными таблицами.md",
     "Conspekt/Основы ИТ",
     "Conspekt/Биология",
-    "Conspekt/Маркетинг/4U.md",
-    "Conspekt/Индивидуальный проект",
-    "Conspekt/Информатика/Почему и в какой момент стоит сказать нет.md",
-    "Conspekt/Введение в специальность/Правила оформления программных документов, выполненных печатным способом.md",
-    "Conspekt/Информатика/Текстовые редакторы. Google Docs..md"
+    "Conspekt/Индивидуальный проект"
   ]
 }
