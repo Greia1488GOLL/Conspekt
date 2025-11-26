@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspekt/Введение в специальность/Создание и настройка.md",
+                "file": "Conspekt/Биология/Биосфера.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Создание и настройка"
+              "title": "Биосфера"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "c02161d76a53a658",
   "lastOpenFiles": [
-    "Conspekt/Биология/Биосфера.md",
+    "Conspekt/Мимолетные проекты/Крестики - нолики.md",
     "Conspekt/Введение в специальность/Создание и настройка.md",
+    "Conspekt/Мимолетные проекты",
+    "Conspekt/Биология/Биосфера.md",
     "Pasted image 20251124110911.png",
     "Pasted image 20251124110647.png",
     "Pasted image 20251124110639.png",
@@ -215,9 +217,7 @@
     "Conspekt/Информатика/Списки, графы и деревья.md",
     "Conspekt/Люди/Алан Тьюринг.md",
     "Conspekt/Введение в Python/Списки.md",
-    "Conspekt/Информатика/Работа с электронными таблицами.md",
     "Conspekt/Основы ИТ",
-    "Conspekt/Биология",
-    "Conspekt/Индивидуальный проект"
+    "Conspekt/Биология"
   ]
 }
