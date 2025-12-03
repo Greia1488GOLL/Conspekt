@@ -1,3 +1,4 @@
+#VirtualBox #OC #Android
 ### Виртуальных машин
 Установи VirtualBox.
 Создай ВМ:
