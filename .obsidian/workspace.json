@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspekt/Основы ИТ/Leetcode 24 November.md",
+                "file": "Conspekt/Код/Pascal and TurboPascal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode 24 November"
+              "title": "Pascal and TurboPascal"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "595d4035855903c9",
   "lastOpenFiles": [
-    "Conspekt/Люди/Джон Бэкус.md",
     "Conspekt/Основы ИТ/Leetcode 24 November.md",
+    "Conspekt/Люди/Джон Бэкус.md",
     "Conspekt/Чиллл/Чилл.md",
     "Conspekt/Введение в специальность/История ЯП Паскаль.md",
     "Conspekt/Введение в специальность/История языков программирования.md",
