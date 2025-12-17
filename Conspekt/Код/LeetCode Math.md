@@ -1,3 +1,5 @@
+# LeetCode Math (1)
+
 ```python
 class Solution:
     def canMakeArithmeticProgression(self, arr: List[int]) -> bool:
@@ -42,3 +44,4 @@ class Solution:
                     x += 1 
                     n -= 1
 ```
+

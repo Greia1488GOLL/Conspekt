@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspekt/Код/LeetCode Math (1).md",
+                "file": "Conspekt/Индивидуальный проект/План.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode Math (1)"
+              "title": "План"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "595d4035855903c9",
   "lastOpenFiles": [
+    "Conspekt/Индивидуальный проект/Введение.md",
+    "Conspekt/Индивидуальный проект/План.md",
+    "Conspekt/SpeedCode/Scrinshot.md",
+    "Снимок экрана (14).png",
+    "Conspekt/Код/LeetCode Math.md",
     "Conspekt/Код/Leet code.md",
-    "Conspekt/Код/LeetCode Math (1).md",
     "Фото/Снимок экрана (8).png",
     "Фото/Снимок экрана (5).png",
     "Фото/Снимок экрана (4).png",
@@ -182,19 +186,15 @@
     "Фото/Pasted image 20251124110911.png",
     "Фото/Pasted image 20251124110647.png",
     "Фото/Pasted image 20251124110639.png",
-    "Фото/Pasted image 20251124110631.png",
     "Фото",
     "Почему и в какой момент стоит сказать нет.pdf",
     "Настройка рабочего пространства.md",
     "Без названия.md",
     "Conspekt/Дополнительно/Kanban and Agile.md",
-    "Conspekt/Индивидуальный проект/Введение.md",
     "Conspekt/Дополнительно",
-    "Conspekt/Индивидуальный проект/Возможности интеграции системы контроля версии в ваш проект.md",
     "Conspekt/Код/Pascal and TurboPascal.md",
     "Conspekt/Основы ИТ/Leetcode 24 November.md",
     "Conspekt/Люди/Джон Бэкус.md",
-    "Conspekt/Чиллл/Чилл.md",
     "Conspekt/Введение в специальность/История ЯП Паскаль.md",
     "Conspekt/Введение в специальность/История языков программирования.md",
     "Conspekt/Введение в специальность/IT профессии в РФ.md",
@@ -209,8 +209,7 @@
     "Conspekt/Люди/Эндрю Таненбаум.md",
     "Conspekt/Люди/Алан Тьюринг.md",
     "Conspekt/Основы ИТ/Принципы объектно - ориентированного программирования.md",
-    "Conspekt/Чиллл",
-    "Conspekt/Биология/Экологические факторы.md",
+    "Conspekt/SpeedCode",
     "Conspekt/Основы ИТ/Устройство ПК.canvas",
     "Conspekt/Мимолетные проекты",
     "Conspekt/Индивидуальный проект/Без названия",
