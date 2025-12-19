@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspekt/ОИТ/Знакомства с Linux.md",
+                "file": "Conspekt/Введение в Python/Способы хранения слов для игры Виселица.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Знакомства с Linux"
+              "title": "Способы хранения слов для игры Виселица"
             }
           }
         ]
@@ -169,14 +169,15 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ce6aa0d46e7e7f13",
+  "active": "595d4035855903c9",
   "lastOpenFiles": [
+    "Conspekt/ОИТ/Знакомства с Linux.md",
+    "Conspekt/Введение в Python/Способы хранения слов для игры Виселица.md",
     "Conspekt/ОИТ/Устройство ПК.canvas",
     "Conspekt/ОИТ/Инструкция для установки Windows 1.0 для Oracle VirtualBox 7.0.16_Ubuntu.md",
     "Conspekt/ОИТ/Информационное право и информационная безопасность.md",
     "Conspekt/ОИТ/Информация.md",
     "Conspekt/ОИТ/Операционная система.md",
-    "Conspekt/ОИТ/Знакомства с Linux.md",
     "Conspekt/ОИТ/Leetcode 24 November.md",
     "Conspekt/ОИТ/Руководство по сборке ПК.md",
     "Conspekt/ОИТ/Процессоры.md",
