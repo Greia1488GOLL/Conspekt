@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspekt/ОИТ/Руководство по сборке ПК.md",
+                "file": "Conspekt/ОИТ/Знакомства с Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Руководство по сборке ПК"
+              "title": "Знакомства с Linux"
             }
           }
         ]
@@ -169,20 +169,21 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "595d4035855903c9",
+  "active": "ce6aa0d46e7e7f13",
   "lastOpenFiles": [
-    "Conspekt/ОИТ/Процессоры.md",
-    "Pasted image 20250918112953.png",
-    "Conspekt/ОИТ/Принципы объектно - ориентированного программирования.md",
+    "Conspekt/ОИТ/Устройство ПК.canvas",
+    "Conspekt/ОИТ/Инструкция для установки Windows 1.0 для Oracle VirtualBox 7.0.16_Ubuntu.md",
+    "Conspekt/ОИТ/Информационное право и информационная безопасность.md",
+    "Conspekt/ОИТ/Информация.md",
     "Conspekt/ОИТ/Операционная система.md",
-    "Conspekt/ОИТ/Подробный разбор устройства ОЗУ.md",
-    "Conspekt/ОИТ/Руководство по сборке ПК.md",
     "Conspekt/ОИТ/Знакомства с Linux.md",
     "Conspekt/ОИТ/Leetcode 24 November.md",
-    "Conspekt/ОИТ/Устройство ПК.canvas",
-    "Conspekt/ОИТ/Информация.md",
-    "Conspekt/ОИТ/Информационное право и информационная безопасность.md",
-    "Conspekt/ОИТ/Инструкция для установки Windows 1.0 для Oracle VirtualBox 7.0.16_Ubuntu.md",
+    "Conspekt/ОИТ/Руководство по сборке ПК.md",
+    "Conspekt/ОИТ/Процессоры.md",
+    "Conspekt/ОИТ/Принципы объектно - ориентированного программирования.md",
+    "Без названия 3.base",
+    "Conspekt/ОИТ/Подробный разбор устройства ОЗУ.md",
+    "Pasted image 20250918112953.png",
     "Рефлексия/ОИТ 17.12.255.md",
     "Conspekt/Введение в специальность/Стандартизация и лицензирование программных продуктов.md",
     "Рефлексия/17.12.25 ОИТ.md",
@@ -216,7 +217,6 @@
     "Conspekt/Индивидуальный проект/Без названия",
     "Conspekt/Код",
     "Без названия 1.base",
-    "Без названия 2.base",
     "Без названия.canvas"
   ]
 }
