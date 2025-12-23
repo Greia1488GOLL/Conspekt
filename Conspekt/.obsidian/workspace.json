@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Код/Pascal and TurboPascal.md",
+                "file": "Код/LeetCode Math (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pascal and TurboPascal"
+              "title": "LeetCode Math (1)"
             }
           }
         ]
@@ -169,9 +169,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a3e6e4c53840a62b",
+  "active": "b2f02db382e5eecb",
   "lastOpenFiles": [
+    "Код/Pascal and TurboPascal.md",
     "Код/LeetCode Math (1).md",
+    "Код/Leet code.md",
+    "Код/Backrooms.md",
+    "Код/Реализация связного списка.md",
+    "Код/Обработка исключения ZeroDivisionError.md",
     "Введение в специальность/История языков программирования.md"
   ]
 }
