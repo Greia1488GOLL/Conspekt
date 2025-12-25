@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Введение в Python/Циклы..md",
+                "file": "Код/Виселица.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Циклы."
+              "title": "Виселица"
             }
           }
         ]
@@ -171,6 +171,12 @@
   },
   "active": "b2f02db382e5eecb",
   "lastOpenFiles": [
+    "Код/Обработка исключения ZeroDivisionError.md",
+    "Код/21 задача Leetcode _Merge two sorted lists_.md",
+    "Люди/Эндрю Таненбаум.md",
+    "Люди/Алан Тьюринг.md",
+    "Код/Pascal and TurboPascal.md",
+    "Введение в Python/Циклы..md",
     "Введение в Python/Условные операторы if. Оператор ветвления..md",
     "Введение в Python/Способы хранения слов для игры Виселица.md",
     "Введение в Python/Списки.md",
@@ -181,8 +187,6 @@
     "Код/Backrooms.md",
     "Код/Leet code.md",
     "Код/LeetCode Math.md",
-    "Код/Pascal and TurboPascal.md",
-    "Код/Обработка исключения ZeroDivisionError.md",
     "Код/Реализация связного списка.md",
     "ОИТ/Устройство ПК.canvas",
     "ОИТ/Руководство по сборке ПК.md",
@@ -195,13 +199,9 @@
     "ОИТ/Знакомства с Linux.md",
     "ОИТ/Leetcode 24 November.md",
     "ОИТ",
-    "Индивидуальный проект/План.md",
-    "SpeedCode/Scrinshot.md",
     "SpeedCode",
-    "Чиллл/Чилл.md",
     "Чиллл",
     "Основы ИТ/Устройство ПК.canvas",
-    "Основы ИТ/Руководство по сборке ПК.md",
     "Основы ИТ"
   ]
 }
