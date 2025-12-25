@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspekt/Код/LeetCode Math.md",
+                "file": "Conspekt/Код/Leet code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode Math"
+              "title": "Leet code"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "595d4035855903c9",
   "lastOpenFiles": [
-    "Conspekt/Код/Leet code.md",
     "Conspekt/Код/LeetCode Math.md",
+    "Conspekt/Код/Leet code.md",
     "Conspekt/Код/Pascal and TurboPascal.md",
     "Conspekt/Информатика/Компьютерные сети.md",
     "Conspekt/Код/Backrooms.md",
