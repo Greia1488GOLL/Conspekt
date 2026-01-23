@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Код/Виселица.md",
+                "file": "Код/Leetcode (69).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виселица"
+              "title": "Leetcode (69)"
             }
           }
         ]
@@ -171,6 +171,12 @@
   },
   "active": "b2f02db382e5eecb",
   "lastOpenFiles": [
+    "Код/Leetcode (67).md",
+    "Код/Leetcode (66).md",
+    "Код/Leetcode (69).md",
+    "Код/Leetcode (58).md",
+    "Код/Leet code.md",
+    "Код/Виселица.md",
     "Код/Обработка исключения ZeroDivisionError.md",
     "Код/21 задача Leetcode _Merge two sorted lists_.md",
     "Люди/Эндрю Таненбаум.md",
@@ -185,7 +191,6 @@
     "Введение в Python/Код по ЕГЭ-2.md",
     "Введение в Python/Классы.md",
     "Код/Backrooms.md",
-    "Код/Leet code.md",
     "Код/LeetCode Math.md",
     "Код/Реализация связного списка.md",
     "ОИТ/Устройство ПК.canvas",
@@ -193,11 +198,6 @@
     "ОИТ/Процессоры.md",
     "ОИТ/Подробный разбор устройства ОЗУ.md",
     "ОИТ/Операционная система.md",
-    "ОИТ/Информация.md",
-    "ОИТ/Информационное право и информационная безопасность.md",
-    "ОИТ/Инструкция для установки Windows 1.0 для Oracle VirtualBox 7.0.16_Ubuntu.md",
-    "ОИТ/Знакомства с Linux.md",
-    "ОИТ/Leetcode 24 November.md",
     "ОИТ",
     "SpeedCode",
     "Чиллл",
