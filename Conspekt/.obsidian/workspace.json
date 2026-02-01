@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Код/Leetcode (70).md",
+                "file": "Конфигурирование Windows 10/Установка Windows 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode (70)"
+              "title": "Установка Windows 10"
             }
           }
         ],
@@ -186,8 +186,10 @@
   },
   "active": "f4747dffd30e8225",
   "lastOpenFiles": [
-    "Код/Leetcode (69).md",
     "Код/Leetcode (70).md",
+    "Конфигурирование Windows 10/Установка Windows 10.md",
+    "Конфигурирование Windows 10",
+    "Код/Leetcode (69).md",
     "Код/LeetCode Math.md",
     "Код/Leetcode (67).md",
     "Код/Leet code.md",
@@ -212,7 +214,6 @@
     "ОИТ/Устройство ПК.canvas",
     "ОИТ/Руководство по сборке ПК.md",
     "ОИТ/Процессоры.md",
-    "ОИТ/Подробный разбор устройства ОЗУ.md",
     "ОИТ",
     "SpeedCode",
     "Чиллл",
