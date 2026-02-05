@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Введение в Python/Списки.md",
+                "file": "Windows 10/141244142.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Списки"
+              "title": "141244142"
             }
           }
         ]
@@ -169,8 +169,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a3e6e4c53840a62b",
+  "active": "b2f02db382e5eecb",
   "lastOpenFiles": [
+    "Введение в Python/Списки.md",
+    "Windows 10/141244142.md",
     "Windows 10",
     "Введение в Python/Обработка исключений.md",
     "Введение в Python/Классы.md",
@@ -197,7 +199,6 @@
     "Код/Реализация связного списка.md",
     "Код/Способы хранения слов.md",
     "Код/Число Фибоначчи в Pascal.md",
-    "Код/Leetcode (69).md",
     "Конфигурирование Windows 10",
     "ОИТ/Устройство ПК.canvas",
     "ОИТ",
