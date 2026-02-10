@@ -11,10 +11,14 @@
             "id": "b2f02db382e5eecb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Конфигурация Windows 10/Установка Windows 10.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Установка Windows 10"
             }
           }
         ]
@@ -165,7 +169,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a3e6e4c53840a62b",
+  "active": "b2f02db382e5eecb",
   "lastOpenFiles": [
     "Windows 10/Установка Windows 10.md",
     "Windows 10",
