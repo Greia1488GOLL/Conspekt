@@ -1,3 +1,4 @@
+#Leetcode
 ```typescript 
 function lengthOfLastWord(s: string): number {
     //Индекс последнего пробела в строке

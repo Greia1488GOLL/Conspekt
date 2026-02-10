@@ -1,3 +1,4 @@
+#Leetcode
 ```typescript
 function mySqrt(x: number): number {
     if (x < 2) return x;
