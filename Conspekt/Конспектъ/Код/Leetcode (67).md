@@ -1,3 +1,4 @@
+#Leetcode
 ```typescript
 function addBinary(a: string, b: string): string {
     let result: number[] = [];
