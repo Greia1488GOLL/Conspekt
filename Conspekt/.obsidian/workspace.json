@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конспектъ/SpeedCode/04.05.md",
+                "file": "Конспектъ/Код/QA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.05"
+              "title": "QA"
             }
           }
         ],
@@ -186,9 +186,10 @@
   },
   "active": "eb8695746447729f",
   "lastOpenFiles": [
+    "Конспектъ/SpeedCode/04.05.md",
+    "Конспектъ/Код/QA.md",
     "Конспектъ/SpeedCode/Scrinshot.md",
     "Конспектъ/Картинки/Снимок экрана_4-5-2026_92548_blindtyping.com.jpeg",
-    "Конспектъ/SpeedCode/04.05.md",
     "Конспектъ/SpeedCode/Снимок экрана_4-5-2026_92226_blindtyping.com.jpeg",
     "Конспектъ/Рефлексия/28.04.26.md",
     "Конспектъ/Информатика/Основы деплоя. Docker, kubernetes.md",
